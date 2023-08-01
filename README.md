@@ -1,1 +1,2 @@
- MY first read me 
+ MY first read me
+ updated README
